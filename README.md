@@ -1,3 +1,6 @@
+![tweet_project_images](register.png) ![tweet_project_images](search_not_found.png) ![tweet_project_images](search-result.png) ![tweet_project_images](127.0.0.1_8000_tweet_1_edit_.png) ![tweet_project_images](confirm_delete.png) ![tweet_project_images](login.png) ![tweet_project_images](tweet_list.jpeg)
+
+
 # Django Twitter Project
 
 A Twitter-like web application built using Django framework with strong foundation of backend basics.
